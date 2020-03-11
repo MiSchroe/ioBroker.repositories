@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "local-npm": "^2.2.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "del": "^3.0.0",
     "request": "^2.83.0",
     "express": "^4.16.2",
